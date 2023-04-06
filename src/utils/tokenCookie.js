@@ -6,6 +6,7 @@ const cookiesOption = {
   path: "/",
   secure: true,
   sameSite: "strict",
+  
 };
 
 const tokenCookie = {
